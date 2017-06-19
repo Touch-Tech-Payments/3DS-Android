@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TAP - Sample App</string>
+    <string name="title_activity_transaction">Authenticate transaction</string>
+    <string name="title_activity_card_registration">Register a new card</string>
+    
+    <!-- Register card -->
+    <string name="cardRegistration_label_confirmationMessage">Would you like to register this card ?</string>
+    <string name="cardRegistration_label_cardToken">Card Token</string>
+
+    <!-- Dac Dialog -->
+    <string name="dac_dialog_title">Device Activation Code</string>
+    <string name="dac_dialog_message">Please enter your Device Activation Code. This will be sent
+    via SMS to your mobile now...</string>
+
+    <!-- Card Details Dialog -->
+    <string name="cardDetails_dialog_title">Card details</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="close">Close</string>
+</resources>

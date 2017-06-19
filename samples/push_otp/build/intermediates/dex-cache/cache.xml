@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.android/build-cache/9d24ade0b69bb6eccb9739ad1208b371327aebde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_954a94b48a579ca78371ff11a2834e38f4c5039e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.android/build-cache/547478709e7c202970547daa6f52b3219eeb0a9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b4a3e350467786947409cd779b92fc26208ecc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.1.4/8726e81201c46a55f594c549fbf0266433c3cd67/realm-annotations-3.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8726e81201c46a55f594c549fbf0266433c3cd67">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-3.1.4_d5becc2eee9bf2c50c44c393e1a2a573ca31a969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_6b17d5634d9845b46fcb46a4cdf9cce381e73580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.5/b423532b5a3c949cbb799468f83bf566032fe98d/rxjava-1.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b423532b5a3c949cbb799468f83bf566032fe98d">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.5_cd7ac988b338c15a6a7a0064bcf74a4945a99f4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.android/build-cache/e9467034bbb443df3e4dac5609ea6d475ef0b243/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdab351fbc184e4df45e8fe678b77c56b61f9725">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2656059f1e2996d7f26bd5665d0f76d38511df75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0da3ebd4f3a3df9bbb09d8fd13d0535e59f8af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fff30157fbb71fe7585d3c6483df6492db21934">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bda1a7ff4685c4aae3e7414a95cb9541539c59c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.android/build-cache/5e28b5a4e10be5fb50ffa46e6d6bb6da9bd4b87f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b29d8689808b14eb3ad20b6ce41dae445f1a32d">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d707702152a1af936bf2e9fd3f8f4c065952472d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_e432ec4bdcf6bc0361069b07f2255f50f94c1a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeremywagemans/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/jeremywagemans/Touchtech/3DS-SampleApp-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_764bb5ac1264dd13096973267814326ecbe088a9/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tech.touch.threeds.android.sampleApp.activities.CardRegistrationActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/register_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/cardRegistration_confirmationMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="109dp"
+            android:text="@string/cardRegistration_label_confirmationMessage" />
+
+        <TextView
+            android:id="@+id/cardRegistration_label_cardToken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cardRegistration_confirmationMessage"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="42dp"
+            android:text="@string/cardRegistration_label_cardToken"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/cardRegistration_cardToken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cardRegistration_label_cardToken"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp" />
+
+        <Button
+            android:id="@+id/cardRegistration_btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/cardRegistration_confirmationMessage"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/cardRegistration_confirmationMessage"
+            android:layout_marginBottom="147dp"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/cardRegistration_btn_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/cardRegistration_btn_cancel"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="58dp"
+            android:layout_marginRight="58dp"
+            android:text="@string/confirm" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>
