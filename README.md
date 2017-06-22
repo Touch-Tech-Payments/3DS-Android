@@ -1,4 +1,6 @@
-#3DS-Android
+![Touchtech Payments](samples/TTP_logo.png)
+
+# 3DS-Android
 
 Touchtech 3DS Android SDK supports Android API 15 and above.
 
