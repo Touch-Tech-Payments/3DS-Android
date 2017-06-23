@@ -8,18 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>io.realm</groupId>
-      <artifactId>realm-android-library</artifactId>
-      <version>3.1.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.realm</groupId>
-      <artifactId>realm-annotations</artifactId>
-      <version>3.1.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.reactivex</groupId>
       <artifactId>rxandroid</artifactId>
       <version>1.2.1</version>
