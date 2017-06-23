@@ -17,16 +17,12 @@ repositories {
 
 Add the following dependency:
 ```
-compile ('tech.touch:3ds-android:1.0')
+compile ('tech.touch:3ds-android:1.0.2')
 ```
 
 ## Dependency graph
 
 ```
-+--- io.realm:realm-android-library:3.1.4
-|    +--- io.realm:realm-annotations:3.1.4
-|    \--- com.getkeepsafe.relinker:relinker:1.2.2
-+--- io.realm:realm-annotations:3.1.4
 +--- io.reactivex:rxandroid:1.2.1
 |    \--- io.reactivex:rxjava:1.1.6 -> 1.2.5
 +--- io.reactivex:rxjava:1.2.5
