@@ -17,7 +17,7 @@ repositories {
 
 Add the following dependency:
 ```
-compile ('tech.touch:3ds-android:1.0.2')
+compile ('tech.touch:3ds-android:1.0.4')
 ```
 
 ## Dependency graph
@@ -26,8 +26,9 @@ compile ('tech.touch:3ds-android:1.0.2')
 +--- io.reactivex:rxandroid:1.2.1
 |    \--- io.reactivex:rxjava:1.1.6 -> 1.2.5
 +--- io.reactivex:rxjava:1.2.5
-+--- com.squareup.okhttp3:okhttp:3.5.0
-|    \--- com.squareup.okio:okio:1.11.0
++--- com.squareup.okhttp3:okhttp-ws:3.4.2
+|    \--- com.squareup.okhttp3:okhttp:3.4.2
+|         \--- com.squareup.okio:okio:1.9.0
 +--- com.google.code.gson:gson:2.8.0
 \--- com.android.support:appcompat-v7:25.3.1
 ```
