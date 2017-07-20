@@ -17,7 +17,7 @@ repositories {
 
 Add the following dependency:
 ```
-compile ('tech.touch:3ds-android:1.0.6')
+compile ('tech.touch:3ds-android:1.0.7')
 ```
 
 ## Dependency graph
