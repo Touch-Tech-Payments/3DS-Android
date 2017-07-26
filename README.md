@@ -2,7 +2,7 @@
 
 # 3DS-Android
 
-Touchtech 3DS Android SDK supports Android API 15 and above.
+Touchtech 3DS Android SDK supports Android API 16 and above.
 
 ## Installation
 
